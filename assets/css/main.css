@@ -2707,10 +2707,10 @@ input, select, textarea {
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/top-3200.svg"), url("https://images.pexels.com/photos/974314/pexels-photo-974314.jpeg?auto=compress&cs=tinysrgb&w=600"), url("../../images/header.jpg");
+		background-image: url("images/top-3200.svg"), url("https://cdn.pixabay.com/photo/2016/11/21/16/37/agriculture-1846341__340.jpg"), url("../../images/header.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: no-repeat,						no-repeat,					no-repeat;
-		background-size: 3200px 460px,					cover,					cover;
+		background-size: 3200px 460px,						cover,					cover;
 		color: rgba(255, 255, 255, 0.8);
 		padding: 10em 0 20em 0;
 		position: relative;
